@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pheo97
+- 👋 Hi, I’m Alupheo
 - 👀 I’m interested in finding employment in the tech industry
 - 🌱 I’m currently learning Javascript , HTML , css and databases (SQL and MONGO)
 - 💞️ I’m looking for assitance and help and be guided on improving my skills
